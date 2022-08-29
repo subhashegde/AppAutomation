@@ -1,0 +1,7 @@
+OS_VERSION="12"
+DEVICE_NAME="Pixel 4a"
+APK_PATH="/Users/subhasmanjunathhegde/Downloads/scaler.apk"
+REMOTE_URL="https://localhost:4723/wd/hub"
+PACKAGE_NAME="com.scaler.app"
+LAUNCHER_ACTIVITY_NAME="com.scaler.app.ui.SplashScreenActivity"
+TEXT_MOBILE_NUMBER="+919449000824"
